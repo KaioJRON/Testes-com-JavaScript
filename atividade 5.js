@@ -6,17 +6,17 @@ var nota3 = prompt("Nota: peso 7");
 
 
 
-var resu1 = parseInt(nota1) * 4;
+var resultado = parseInt(nota1) * 4;
 
-var resu2 = parseInt(nota2) * 5;
+var resultado1 = parseInt(nota2) * 5;
 
-var resu3 = parseInt(nota3) * 7;
-
-
-
-var mediaFinal = (resu1 + resu2 + resu3) / 3;
+var resultado2 = parseInt(nota3) * 7;
 
 
 
-document.write("Média Final: ", mediaFinal)
+var Media = (resultado + resultado1 + resultado2) / 3;
+
+
+
+document.write("Média Final: ", Media)
 
