@@ -1,3 +1,3 @@
-var  nome  =  prompt ( "Seu nome aqui" ) ;
+var  nome  =  prompt ( "coloque seu nome" ) ;
 
 document. write ( nome ) ;
